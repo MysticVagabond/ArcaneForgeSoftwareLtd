@@ -1,7 +1,2 @@
-<html>
-  <h1>Arcane Forge Software Limited</h1>
-  <body>
-    <p>A humble beginning.</p>
-    <p>Readme.Md</p>
-  </body>
-</html>
+This is the website for my company.
+I will use this repo to iteratively demonstrate my skills and build out the website.
