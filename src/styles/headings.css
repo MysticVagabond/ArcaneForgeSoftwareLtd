@@ -1,0 +1,7 @@
+h1 {
+  background-color: #a3a3a3;
+  display: flex;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(44, 44, 44);
+}
